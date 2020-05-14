@@ -1,0 +1,1 @@
+{"name":"sample-embedded-app","version":"1.0.0","main":"index.js","license":"MIT","dependencies":{"next":"^9.4.0","react":"^16.13.1","react-dom":"^16.13.1"},"scripts":{"test":"echo \"Error: no test specified\" && exit 1","dev":"next","build":"next build","start":"next start"},"readme":"ERROR: No README data found!","_id":"sample-embedded-app@1.0.0"}
